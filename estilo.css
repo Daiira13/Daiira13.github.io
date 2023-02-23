@@ -8,6 +8,8 @@
     padding: 0;
 }
 
+
+
 html{
     /* me permite deslizar cuando hago clic en los links del menu */
     scroll-behavior: smooth;
@@ -269,6 +271,7 @@ img {
 }
 
 .habilidades h2{
+    color: #1CB698;
     font-size: 30px;
     font-family: 'Righteous';
     padding: 20px 0;
@@ -278,6 +281,7 @@ img {
 
 
 .habilidades h3{
+    color: #1CB698;
     font-size: 30px;
     font-family: 'Righteous';
     padding: 20px 0;
